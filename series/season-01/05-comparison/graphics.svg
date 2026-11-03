@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#0B0C10"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#C8AE83"/></marker></defs>
+<text x="60" y="80" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="27" font-weight="bold">THE BORROWED SCORECARD</text>
+<rect x="60.0" y="130" width="343.3333333333333" height="116" rx="18" fill="#242630" stroke="#91C7D2" stroke-width="2"/>
+<text x="231.66666666666666" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">THEIR HIGHLIGHT</text>
+<path d="M406.3333333333333 188 H424.3333333333333" stroke="#C8AE83" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="428.3333333333333" y="130" width="343.3333333333333" height="116" rx="18" fill="#242630" stroke="#91C7D2" stroke-width="2"/>
+<text x="600.0" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">MY WHOLE DAY</text>
+<path d="M774.6666666666666 188 H792.6666666666666" stroke="#C8AE83" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="796.6666666666666" y="130" width="343.3333333333333" height="116" rx="18" fill="#242630" stroke="#91C7D2" stroke-width="2"/>
+<text x="968.3333333333333" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">A FALSE VERDICT</text>
+<text x="60" y="292" fill="#92959A" font-family="Arial,sans-serif" font-size="16">Conceptual story diagram — no measured statistics.</text>
+<text x="60" y="415" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="27" font-weight="bold">CHOOSE YOUR FRAME</text>
+<rect x="60.0" y="465" width="343.3333333333333" height="116" rx="18" fill="#242630" stroke="#91C7D2" stroke-width="2"/>
+<text x="231.66666666666666" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">MY PURPOSE</text>
+<path d="M406.3333333333333 523 H424.3333333333333" stroke="#C8AE83" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="428.3333333333333" y="465" width="343.3333333333333" height="116" rx="18" fill="#242630" stroke="#91C7D2" stroke-width="2"/>
+<text x="600.0" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">ONE HONEST PHOTO</text>
+<path d="M774.6666666666666 523 H792.6666666666666" stroke="#C8AE83" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="796.6666666666666" y="465" width="343.3333333333333" height="116" rx="18" fill="#242630" stroke="#91C7D2" stroke-width="2"/>
+<text x="968.3333333333333" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">THE PERSON IT IS FOR</text>
+<text x="60" y="627" fill="#92959A" font-family="Arial,sans-serif" font-size="16">Conceptual story diagram — no measured statistics.</text>
+</svg>

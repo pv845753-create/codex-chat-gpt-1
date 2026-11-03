@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Two conceptual diagrams">
+<rect width="1280" height="720" fill="#0B0C10"/>
+<text x="60" y="50" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="26" font-weight="700">THE STORY THAT KEPT HIM AWAY</text>
+<rect x="102.0" y="105" width="340" height="94" rx="16" fill="#242630" stroke="#6D97B8" stroke-width="3"/>
+<text x="272.0" y="160" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="18">A MISTAKE</text>
+<path d="M 447.0 152 h 18 m -7 -6 l 7 6 -7 6" fill="none" stroke="#D4A46A" stroke-width="2"/>
+<rect x="470.0" y="105" width="340" height="94" rx="16" fill="#242630" stroke="#6D97B8" stroke-width="3"/>
+<text x="640.0" y="160" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="18">A VERDICT</text>
+<path d="M 815.0 152 h 18 m -7 -6 l 7 6 -7 6" fill="none" stroke="#D4A46A" stroke-width="2"/>
+<rect x="838.0" y="105" width="340" height="94" rx="16" fill="#242630" stroke="#6D97B8" stroke-width="3"/>
+<text x="1008.0" y="160" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="18">STAY AWAY</text>
+<text x="60" y="265" fill="#92959A" font-family="Arial,sans-serif" font-size="15">Conceptual story sequence. Not measured data.</text>
+<text x="60" y="395" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="26" font-weight="700">A WAY BACK</text>
+<rect x="102.0" y="450" width="340" height="94" rx="16" fill="#242630" stroke="#D4A46A" stroke-width="3"/>
+<text x="272.0" y="505" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="18">RETURN</text>
+<path d="M 447.0 497 h 18 m -7 -6 l 7 6 -7 6" fill="none" stroke="#D4A46A" stroke-width="2"/>
+<rect x="470.0" y="450" width="340" height="94" rx="16" fill="#242630" stroke="#D4A46A" stroke-width="3"/>
+<text x="640.0" y="505" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="18">NOTICE</text>
+<path d="M 815.0 497 h 18 m -7 -6 l 7 6 -7 6" fill="none" stroke="#D4A46A" stroke-width="2"/>
+<rect x="838.0" y="450" width="340" height="94" rx="16" fill="#242630" stroke="#D4A46A" stroke-width="3"/>
+<text x="1008.0" y="505" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="18">ADJUST</text>
+<text x="60" y="610" fill="#92959A" font-family="Arial,sans-serif" font-size="15">Conceptual story sequence. Not measured data.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#0B0C10"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#D4A15E"/></marker></defs>
+<text x="60" y="80" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="27" font-weight="bold">AN ANNOUNCEMENT IS NOT THE OBJECT</text>
+<rect x="60.0" y="130" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="185.625" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">INTENTION</text>
+<path d="M314.25 188 H332.25" stroke="#D4A15E" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="336.25" y="130" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="461.875" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">ANNOUNCEMENT</text>
+<path d="M590.5 188 H608.5" stroke="#D4A15E" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="612.5" y="130" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="738.125" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">APPLAUSE</text>
+<path d="M866.75 188 H884.75" stroke="#D4A15E" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="888.75" y="130" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="1014.375" y="181" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">OBJECT STILL WAITING</text>
+<text x="60" y="292" fill="#92959A" font-family="Arial,sans-serif" font-size="16">Conceptual story diagram — no measured statistics.</text>
+<text x="60" y="415" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="27" font-weight="bold">THE FEEDBACK LOOP</text>
+<rect x="60.0" y="465" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="185.625" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">MAKE</text>
+<path d="M314.25 523 H332.25" stroke="#D4A15E" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="336.25" y="465" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="461.875" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">TEST</text>
+<path d="M590.5 523 H608.5" stroke="#D4A15E" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="612.5" y="465" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="738.125" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">ASK</text>
+<path d="M866.75 523 H884.75" stroke="#D4A15E" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="888.75" y="465" width="251.25" height="116" rx="18" fill="#242630" stroke="#9CB697" stroke-width="2"/>
+<text x="1014.375" y="516" text-anchor="middle" fill="#E6E5DF" font-family="Arial,sans-serif" font-size="19">REVISE</text>
+<text x="60" y="627" fill="#92959A" font-family="Arial,sans-serif" font-size="16">Conceptual story diagram — no measured statistics.</text>
+</svg>

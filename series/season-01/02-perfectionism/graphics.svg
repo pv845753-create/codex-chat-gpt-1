@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#C6A478"/></marker></defs>
+<rect width="1280" height="800" fill="#0B0C10"/>
+<text x="70" y="70" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#E6E5DF">THE BRIEF IS NOT THE FEAR</text>
+<rect x="91.0" y="140" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="217.0" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">READABLE TITLE</text>
+<path d="M346.0 195H369.0" fill="none" stroke="#C6A478" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="373.0" y="140" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="499.0" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">CLEAR SCENE</text>
+<path d="M628.0 195H651.0" fill="none" stroke="#C6A478" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="655.0" y="140" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="781.0" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">AGREED SIZE</text>
+<path d="M910.0 195H933.0" fill="none" stroke="#C6A478" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="937.0" y="140" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="1063.0" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">NOT UNIVERSAL</text>
+<text x="1063.0" y="214" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">APPROVAL</text>
+<text x="640" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#92959A">Conceptual story diagram — not measured data.</text>
+<text x="70" y="450" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#E6E5DF">A PROCESS WITH AN EXIT</text>
+<rect x="91.0" y="520" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="217.0" y="570" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">DEFINE</text>
+<path d="M346.0 575H369.0" fill="none" stroke="#C6A478" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="373.0" y="520" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="499.0" y="570" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">MAKE</text>
+<path d="M628.0 575H651.0" fill="none" stroke="#C6A478" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="655.0" y="520" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="781.0" y="570" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">CHECK</text>
+<path d="M910.0 575H933.0" fill="none" stroke="#C6A478" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="937.0" y="520" width="252" height="110" rx="18" fill="#232B32" stroke="#C6A478" stroke-width="2"/>
+<text x="1063.0" y="570" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#E6E5DF">RELEASE</text>
+<text x="640" y="680" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#92959A">Conceptual story diagram — not measured data.</text>
+</svg>

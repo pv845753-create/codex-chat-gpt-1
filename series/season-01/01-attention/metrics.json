@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 415.34045351473924,
+  "spoken_seconds": 399.08045351473925,
+  "words": 925,
+  "beats": 33,
+  "diagrams": 2,
+  "voice": "Piper LibriTTS high, speaker 0, synthetic U.S. English",
+  "voice_dataset_license": "CC BY 4.0 per official model card",
+  "status": "narrated production draft",
+  "caption_timing": "Approximate phrase timing from per-beat synthesized audio, not forced word alignment."
+}

@@ -1,0 +1,179 @@
+{
+  "id": "05",
+  "slug": "comparison",
+  "title": "Someone Else’s Life",
+  "topic_pt": "Comparação social e recuperação de uma régua pessoal",
+  "vibe_pt": "Melancolia urbana, prata e ciano em reflexos; calor discreto no reencontro com o próprio motivo.",
+  "accent": "#91C7D2",
+  "secondary": "#C8AE83",
+  "thumbnail_text": "WRONG FRAME",
+  "evidence_pt": "Sinal indireto nos prints fornecidos: vídeo de autoimagem identificado por “Am I Ugly?” com cerca de 49 mil visualizações e indicação de 12 dias. Não foi medido o interesse atual, e o tema comparação é uma aposta editorial relacionada.",
+  "music_pt": "Piano espaçado, textura de vidro e trem; retirar a cama musical quando a avó pergunta sobre a padaria; cordas suaves e menos frias no envio do livro. Evitar vitória épica.",
+  "sfx": [
+    "Passagem de trem abafada",
+    "Chuva no vidro",
+    "Disparo de obturador",
+    "Virada de páginas",
+    "Papel do pão",
+    "Envelope sendo fechado",
+    "Toque discreto de chamada"
+  ],
+  "diagrams": [
+    {
+      "title": "THE BORROWED SCORECARD",
+      "nodes": [
+        "THEIR HIGHLIGHT",
+        "MY WHOLE DAY",
+        "A FALSE VERDICT"
+      ]
+    },
+    {
+      "title": "CHOOSE YOUR FRAME",
+      "nodes": [
+        "MY PURPOSE",
+        "ONE HONEST PHOTO",
+        "THE PERSON IT IS FOR"
+      ]
+    }
+  ],
+  "beats": [
+    {
+      "scene": "train",
+      "text": "The first photograph was not impressive. A wet bus stop. A crooked blue sign. His grandmother recognized it immediately. That is where we used to wait, she said."
+    },
+    {
+      "scene": "books",
+      "text": "He decided to make her a small book of their old neighborhood. Not famous places. The bakery window, the footbridge, the bench where she always stopped to rest."
+    },
+    {
+      "scene": "phone",
+      "text": "He opened an account for inspiration. A photographer stood above a mountain. Another leaned from a helicopter over a city he had never visited."
+    },
+    {
+      "scene": "mirror",
+      "text": "He looked down at his own picture. The blue sign suddenly seemed cheap. The rain looked gray instead of dramatic. Nothing in the photograph had changed except the comparison."
+    },
+    {
+      "scene": "street",
+      "text": "On his next walk, he passed the bakery without taking a picture. He was waiting for better light now. Something cinematic. Something that would belong beside those other photographs."
+    },
+    {
+      "scene": "notes",
+      "text": "He listed what serious photographers seemed to have: better cameras, better clothes, more interesting mornings. At the bottom, he had forgotten the book."
+    },
+    {
+      "scene": "phone",
+      "text": "He studied their rooms as carefully as their pictures. Their work seemed to come from a life that had already been arranged correctly."
+    },
+    {
+      "scene": "window",
+      "text": "His window faced a brick wall and a clothesline. He pulled the curtain across it. Then he spent the evening looking at someone else's view through a smaller rectangle."
+    },
+    {
+      "scene": "desk",
+      "text": "The camera stayed on his desk. He renamed his account and deleted the bus stop picture. It no longer matched the person he wanted to appear to be."
+    },
+    {
+      "scene": "train",
+      "text": "On the train, every dark window became a mirror. He checked his reflection, then a stranger's photograph, then his reflection again. He was measuring two things that did not belong together."
+    },
+    {
+      "scene": "diagram",
+      "text": "He had borrowed a scorecard without noticing. Their finished highlight against his entire ordinary day. Their chosen frame against everything he knew about himself. The comparison could never be fair.",
+      "graphic_id": 0
+    },
+    {
+      "scene": "mirror",
+      "text": "Knowing the comparison was unfair did not immediately change how he felt. The camera gathered dust while his taste grew more demanding."
+    },
+    {
+      "scene": "phone",
+      "text": "His grandmother called on Sunday. Had he taken any new pictures? He said he was working on the idea. She asked whether the bakery still put bread in the window."
+    },
+    {
+      "scene": "kitchen",
+      "text": "He could not remember. He lived three streets away, but he had spent more time studying a mountain on another continent than noticing what happened outside his own door."
+    },
+    {
+      "scene": "street",
+      "text": "The next morning, a handwritten notice appeared on the bakery glass. Closing next month. The owner was retiring. There would not be an unlimited number of ordinary mornings after all."
+    },
+    {
+      "scene": "door",
+      "text": "He almost walked past. Then the owner stepped outside with a tray and asked whether he wanted anything. He stopped and bought one roll."
+    },
+    {
+      "scene": "bench",
+      "text": "He bought one roll and sat across the street. Steam clouded the paper bag. The sign leaned slightly to the left. He knew that tilt. His grandmother would know it too."
+    },
+    {
+      "scene": "notes",
+      "text": "He wrote a different question in his notebook. Not, would a stranger admire this? Would someone who knows this place recognize what matters?"
+    },
+    {
+      "scene": "diagram",
+      "text": "This was the frame he could choose: his reason for making the book, one honest photograph, and the person he meant to share it with. A direction, not a popularity forecast.",
+      "graphic_id": 1
+    },
+    {
+      "scene": "street",
+      "text": "He raised the camera. A bus interrupted the first shot. In the next, the owner laughed at a customer beyond the edge."
+    },
+    {
+      "scene": "desk",
+      "text": "The picture was uneven. He straightened it a little, then stopped. The laugh mattered more than the perfect angle. He wrote the date underneath and kept the photograph."
+    },
+    {
+      "scene": "phoneaway",
+      "text": "When he opened the reference account that evening, the mountain was still beautiful. He saved it without turning it into a verdict. Admiration did not have to become an instruction to disappear."
+    },
+    {
+      "scene": "street",
+      "text": "Over the next week, he returned to the footbridge. The railings had been repainted. He took a close photograph of a small patch where the old blue still showed through."
+    },
+    {
+      "scene": "bench",
+      "text": "At the bench, he waited until the rain stopped. Not for a dramatic sky. He wanted the wet wood and the empty space beside it, the place she usually put her bag."
+    },
+    {
+      "scene": "train",
+      "text": "He photographed the bus stop again. This time, he included the crooked sign. He could imagine his grandmother pointing at it before she read a single word of the caption."
+    },
+    {
+      "scene": "books",
+      "text": "Some pictures did not work. One was blurred. Another said nothing. He left them out. His own purpose still needed choices and care."
+    },
+    {
+      "scene": "desk",
+      "text": "He asked a friend to look through the pages. She suggested moving the bakery photograph earlier. He listened. A personal standard could still make room for useful eyes besides his own."
+    },
+    {
+      "scene": "phone",
+      "text": "One night, he slipped back into comparing. A younger photographer had won an award. He stared until his small book felt ridiculous. Then he remembered who was waiting for it."
+    },
+    {
+      "scene": "books",
+      "text": "He closed the account and printed the next page. It was an ordinary choice, and he would need to make it again. One evening of clarity had not ended the habit."
+    },
+    {
+      "scene": "write",
+      "text": "On the last page, he wrote: Some things changed. Some things stayed. I thought you might like to see. He left that sentence alone."
+    },
+    {
+      "scene": "send",
+      "text": "He mailed the book in a plain envelope. No public announcement. No promise that it would change anyone's life. Just twelve photographs that had finally reached the person they were for."
+    },
+    {
+      "scene": "phone",
+      "text": "His grandmother called and began with the crooked sign. Then she asked about the bakery owner. They talked for an hour."
+    },
+    {
+      "scene": "window",
+      "text": "Later, he opened his curtain. The brick wall was still there. So was the clothesline. A yellow shirt moved in the wind. For the first time in weeks, he reached for the camera."
+    },
+    {
+      "scene": "end",
+      "text": "Someone else's life can be beautiful without making yours a mistake. Before you change everything to fit their frame, ask what you wanted to see through your own."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0 L8 4.5 L0 9" fill="#9A7BE4"/></marker></defs>
+<rect width="1280" height="800" fill="#0B0C10"/>
+<text x="70" y="55" fill="#E6E5DF" font-family="Arial" font-size="24">One More Game</text>
+<text x="70" y="130" fill="#86B88D" font-family="Arial" font-size="27">THAT SATURDAY</text>
+<rect x="222.5" y="175" width="235" height="95" rx="16" fill="#242630" stroke="#9A7BE4" stroke-width="2"/>
+<text x="340.0" y="230" text-anchor="middle" fill="#E6E5DF" font-family="Arial" font-size="21">One more match</text>
+<path d="M465.5 222 H510.5" stroke="#9A7BE4" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="522.5" y="175" width="235" height="95" rx="16" fill="#242630" stroke="#9A7BE4" stroke-width="2"/>
+<text x="640.0" y="230" text-anchor="middle" fill="#E6E5DF" font-family="Arial" font-size="21">Less sleep</text>
+<path d="M765.5 222 H810.5" stroke="#9A7BE4" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="822.5" y="175" width="235" height="95" rx="16" fill="#242630" stroke="#9A7BE4" stroke-width="2"/>
+<text x="940.0" y="230" text-anchor="middle" fill="#E6E5DF" font-family="Arial" font-size="21">A broken promise</text>
+<text x="70" y="323" fill="#92959A" font-family="Arial" font-size="18">A conceptual pattern in this story. No measured data.</text>
+<text x="70" y="450" fill="#86B88D" font-family="Arial" font-size="27">LEAVE ROOM FOR TOMORROW</text>
+<rect x="222.5" y="495" width="235" height="95" rx="16" fill="#242630" stroke="#9A7BE4" stroke-width="2"/>
+<text x="340.0" y="550" text-anchor="middle" fill="#E6E5DF" font-family="Arial" font-size="21">Choose a stop</text>
+<path d="M465.5 542 H510.5" stroke="#9A7BE4" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="522.5" y="495" width="235" height="95" rx="16" fill="#242630" stroke="#9A7BE4" stroke-width="2"/>
+<text x="640.0" y="550" text-anchor="middle" fill="#E6E5DF" font-family="Arial" font-size="21">Protect the promise</text>
+<path d="M765.5 542 H810.5" stroke="#9A7BE4" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="822.5" y="495" width="235" height="95" rx="16" fill="#242630" stroke="#9A7BE4" stroke-width="2"/>
+<text x="940.0" y="550" text-anchor="middle" fill="#E6E5DF" font-family="Arial" font-size="21">Show up</text>
+<text x="70" y="643" fill="#92959A" font-family="Arial" font-size="18">A conceptual pattern in this story. No measured data.</text>
+</svg>

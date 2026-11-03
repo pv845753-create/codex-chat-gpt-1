@@ -1,0 +1,180 @@
+{
+  "id": "10",
+  "slug": "fear",
+  "title": "The Door You Keep Avoiding",
+  "topic_pt": "Medo de julgamento e a primeira apresentação pública de um trabalho próprio",
+  "vibe_pt": "Suspense íntimo de corredor e palco pequeno. Preto, verde-sálvia e ouro fosco. A câmera acompanha mãos e respiração, com silêncio e timbre acústico em vez de triunfo épico.",
+  "accent": "#A4B79B",
+  "secondary": "#CCA66E",
+  "thumbnail_text": "THAT DOOR",
+  "evidence_pt": "Aposta editorial conexa ao medo e mudança pessoal presentes no posicionamento do Hardstart Films. Não há dados específicos fornecidos para este tema e não foi confirmada tendência atual.",
+  "music_pt": "Piano de feltro ou violão limpo com motivo original de quatro notas. No início o motivo sempre interrompe antes da resolução. Após a apresentação, ele termina de modo simples, sem orquestra épica. Reservar espaço para respiração, cadeira e ambiência do café.",
+  "sfx": [
+    "Teclas ou cordas tocadas com pequenas hesitações",
+    "Lápis no caderno e folha virada",
+    "Trem e freio distante",
+    "Gole de água e garrafa fechando",
+    "Maçaneta e porta de vidro",
+    "Pedestal de microfone sendo ajustado",
+    "Cadeira arrastando",
+    "Ambiência de café e aplauso contido próprio ou licenciado"
+  ],
+  "diagrams": [
+    {
+      "title": "HER CLOSED-DOOR PATTERN",
+      "nodes": [
+        "IMAGINE JUDGMENT",
+        "AVOID THE ROOM",
+        "LEARN NOTHING NEW"
+      ]
+    },
+    {
+      "title": "A PLAN FOR ONE EVENING",
+      "nodes": [
+        "PREPARE WHAT YOU CAN",
+        "ENTER WITH FEAR",
+        "LISTEN AND RETURN"
+      ]
+    }
+  ],
+  "beats": [
+    {
+      "scene": "piano",
+      "text": "For months, Lena played the same four bars beautifully. They began a song nobody had heard, because she always stopped before the uncertain part."
+    },
+    {
+      "scene": "notes",
+      "text": "The rest existed in pencil. Crossed-out chords, fragments of words, a line she liked but did not understand yet. At home, unfinished could still mean possibility."
+    },
+    {
+      "scene": "phone",
+      "text": "A cafe near the station hosted music on Thursdays. Two songs each. Beginners welcome. She saved the post, then searched the comments for reasons not to go."
+    },
+    {
+      "scene": "street",
+      "text": "One evening, she passed the cafe on her way home. Through the window, someone was adjusting a microphone. She slowed down, pretended to read the menu, and kept walking."
+    },
+    {
+      "scene": "mirror",
+      "text": "At home, she imagined the silence after a wrong note. Someone glancing at a phone. A polite smile. In her head, strangers were already disappointed."
+    },
+    {
+      "scene": "piano",
+      "text": "She practiced more. Practice helped, but every improvement moved the requirement further away. A cleaner opening. Another month before anyone could listen."
+    },
+    {
+      "scene": "clock",
+      "text": "Thursday became the day she was almost ready. She watched the evening pass from the kitchen, then felt relieved when it was too late to leave the apartment."
+    },
+    {
+      "scene": "notes",
+      "text": "Her notebook filled with performance dates she had not attended. She had begun treating preparation as proof that she was moving, even when it kept her behind the same door."
+    },
+    {
+      "scene": "train",
+      "text": "On the train, she heard a favorite musician talking between songs. A chair scraped. Someone laughed. The room sounded less perfect than she had imagined."
+    },
+    {
+      "scene": "piano",
+      "text": "She recorded the whole song. At each mistake, she wanted to restart. Instead, she stayed until the last chord faded."
+    },
+    {
+      "scene": "phone",
+      "text": "The recording was rough. She sent it to one friend with a specific question: does the second verse make sense? She did not ask whether she deserved to call herself a musician."
+    },
+    {
+      "scene": "notes",
+      "text": "Her friend pointed to a confusing line and an image she remembered. Useful feedback, not a verdict on Lena or a promise that everybody would like her song."
+    },
+    {
+      "scene": "diagram",
+      "text": "Lena drew the arrangement she had been living inside: imagine judgment, avoid the room, learn nothing new. This described her own pattern. It did not explain every person's fear of performing.",
+      "graphic_id": 0
+    },
+    {
+      "scene": "notes",
+      "text": "She changed the line, finished a simple ending, and chose a date. Her goal was not to impress the room. It was to play one complete song in it."
+    },
+    {
+      "scene": "phone",
+      "text": "She messaged the organizer. Was there a place for a first-time performer? The reply listed a time, a short set, and where to put her name when she arrived."
+    },
+    {
+      "scene": "clock",
+      "text": "The details helped. They also made it real. On Thursday, Lena considered saying she was ill. She was frightened instead, and the distinction mattered to her."
+    },
+    {
+      "scene": "organize",
+      "text": "She packed her notebook, a water bottle, and the cable the organizer had mentioned. Then she checked the route. There were practical things she could prepare without rehearsing every possible reaction."
+    },
+    {
+      "scene": "piano",
+      "text": "Before leaving, she played the opening once. Her hand shook slightly. She decided not to keep testing whether the fear had disappeared. She had already checked that the instrument worked."
+    },
+    {
+      "scene": "street",
+      "text": "Outside, the city carried on. Buses stopped. A delivery rider checked an address. Nobody was waiting to judge her walk to the cafe."
+    },
+    {
+      "scene": "door",
+      "text": "At the entrance, she stopped. The sound of cups and conversation reached through the glass. She could still leave. Instead, she pushed the handle and stepped inside before deciding how to feel."
+    },
+    {
+      "scene": "stage",
+      "text": "The organizer showed her the sign-up sheet. Lena wrote her name small, as though a smaller name might ask less of the room. Then she found somewhere to sit."
+    },
+    {
+      "scene": "water",
+      "text": "She drank water and watched another newcomer adjust the stool twice. Their first chord buzzed. They adjusted a finger and continued. The room continued with them."
+    },
+    {
+      "scene": "diagram",
+      "text": "Her new plan had three parts: prepare what she could, enter with the fear, listen afterward. It was a plan for one evening, not a guarantee of confidence or applause.",
+      "graphic_id": 1
+    },
+    {
+      "scene": "stage",
+      "text": "When her name was called, the distance to the microphone felt longer than it looked. She carried the notebook with both hands. The organizer lowered the stand."
+    },
+    {
+      "scene": "piano",
+      "text": "The first four bars came easily. Then she reached the part she had always interrupted. Her hand hesitated. A chord landed wrong, louder than the notes around it."
+    },
+    {
+      "scene": "stage",
+      "text": "For a second, she could hear only that mistake. She almost apologized. Instead, she took a breath, found the next chord, and let the unfinished-sounding moment belong to the song."
+    },
+    {
+      "scene": "notes",
+      "text": "A line slipped from memory. She looked at the notebook. It was there to be used. Reading it did not cancel the hours she had spent making the words her own."
+    },
+    {
+      "scene": "piano",
+      "text": "She reached the ending she had written that week. It was simple. The last note faded sooner than she expected, leaving a brief silence she no longer had to fill."
+    },
+    {
+      "scene": "stage",
+      "text": "People clapped. Some had listened closely; somebody had been distracted. It was a real room, containing several experiences at once. None was hers to control."
+    },
+    {
+      "scene": "water",
+      "text": "Afterward, she could still feel her pulse in her wrists. Courage had not made her calm on command. She sat down, drank water, and listened to the next performer."
+    },
+    {
+      "scene": "phone",
+      "text": "Her friend asked how it went. Lena typed everything she had done wrong. Then added what the list had missed: I finished the song."
+    },
+    {
+      "scene": "notes",
+      "text": "Next morning, she noted two changes: slow the transition, mark the difficult lyric. She did not add become someone who never feels afraid. That was not something to practice."
+    },
+    {
+      "scene": "door",
+      "text": "A week later, the cafe door looked familiar. She still paused before opening it. This time, the pause contained more than imagined judgment. It contained a memory of getting through the song."
+    },
+    {
+      "scene": "end",
+      "text": "There was no fearless version of Lena waiting behind the door. There was a person who could prepare, enter, listen, and return. She put her hand on the handle again."
+    }
+  ]
+}

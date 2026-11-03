@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01",
+    "slug": "attention",
+    "title": "Your Attention Is Being Sold",
+    "topic_pt": "Atenção e celular",
+    "vibe_pt": "Ciano/coral; suspense digital",
+    "evidence_pt": "Dopamine: 559 mil views, 1 mês, no print enviado. Interesse observado na referência, não tendência medida hoje."
+  },
+  {
+    "id": "02",
+    "slug": "perfectionism",
+    "title": "The Draft You Never Finish",
+    "topic_pt": "Perfeccionismo",
+    "vibe_pt": "Sépia/vermelho; ateliê e tensão",
+    "evidence_pt": "Perfectionism: 24 mil views, 1 dia, no print enviado. Comparação de idades de postagem não normalizada."
+  },
+  {
+    "id": "03",
+    "slug": "instant-relief",
+    "title": "The Promise After Midnight",
+    "topic_pt": "Alívio imediato e hábitos noturnos",
+    "vibe_pt": "Azul-noturno/carmesim; intimista",
+    "evidence_pt": "Lust Is Killing You: 1,4 milhão de views, 2 semanas, no print enviado. Sem afirmar causa ou receita de viralização."
+  },
+  {
+    "id": "04",
+    "slug": "one-more-game",
+    "title": "One More Game",
+    "topic_pt": "Jogos como fuga",
+    "vibe_pt": "Violeta/verde; arcade versus manhã",
+    "evidence_pt": "Gaming Is Killing You: 41 mil views, 9 dias, no print enviado. Não demonizar jogos."
+  },
+  {
+    "id": "05",
+    "slug": "comparison",
+    "title": "Someone Else’s Life",
+    "topic_pt": "Comparação e autoimagem",
+    "vibe_pt": "Prata/ciano; reflexos e vitrines",
+    "evidence_pt": "The Words You Never Forgot / AM I UGLY?:49 mil views, 12 dias, no print enviado. Sinal indireto."
+  },
+  {
+    "id": "06",
+    "slug": "quiet-work",
+    "title": "Nobody Needs to Know",
+    "topic_pt": "Constância e validação",
+    "vibe_pt": "Sálvia/âmbar; oficina e madeira",
+    "evidence_pt": "Move In Silence:42 mil views, 3 dias, no print enviado."
+  },
+  {
+    "id": "07",
+    "slug": "return",
+    "title": "The Day After You Quit",
+    "topic_pt": "Recomeçar após desistir",
+    "vibe_pt": "Azul-chuva/âmbar; instrumento e retorno",
+    "evidence_pt": "READY:104 mil views, 1 mês; ROOTS:136 mil, 1 mês, nos prints. Temas adjacentes."
+  },
+  {
+    "id": "08",
+    "slug": "burnout",
+    "title": "You Can’t Outwork Empty",
+    "topic_pt": "Exaustão e culpa ao descansar",
+    "vibe_pt": "Cobre/azul; trabalho e limites",
+    "evidence_pt": "Aposta editorial aderente ao nicho; sem métrica específica verificada."
+  },
+  {
+    "id": "09",
+    "slug": "loneliness",
+    "title": "The Empty Seat",
+    "topic_pt": "Solidão e iniciativa para conexão",
+    "vibe_pt": "Âmbar/petróleo; cidade e banco",
+    "evidence_pt": "Aposta editorial; sem métrica específica verificada. Evita repetir Nobody Is Coming já no canal."
+  },
+  {
+    "id": "10",
+    "slug": "fear",
+    "title": "The Door You Keep Avoiding",
+    "topic_pt": "Medo do julgamento",
+    "vibe_pt": "Sálvia/ouro; corredor e palco",
+    "evidence_pt": "Aposta editorial; sem métrica específica verificada."
+  }
+]
