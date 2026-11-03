@@ -1,0 +1,13 @@
+{
+  "duration_seconds": 422.9014965986395,
+  "spoken_seconds": 406.2214965986395,
+  "words": 949,
+  "beats": 34,
+  "diagrams": 2,
+  "voice": "Piper LibriTTS high, speaker 0, synthetic U.S. English",
+  "voice_dataset_license": "CC BY 4.0 per official model card",
+  "status": "narrated production draft",
+  "caption_timing": "Approximate phrase timing from per-beat synthesized audio, not forced word alignment.",
+  "voice_gain_before_mix": 1.3116688668398415,
+  "mix_revision": "Voice-ducked original score, gradual musical lift, synchronized synthesized effects; target -16 LUFS and -1.5dBTP."
+}

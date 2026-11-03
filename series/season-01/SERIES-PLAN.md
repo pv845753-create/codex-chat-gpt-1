@@ -19,4 +19,7 @@ Não é um ranking de tendências em tempo real. Os temas 01–07 usam sinais di
 | 10 | The Door You Keep Avoiding | Medo de julgamento e a primeira apresentação pública de um trabalho próprio | Suspense íntimo de corredor e palco pequeno. Preto, verde-sálvia e ouro fosco. A câmera acompanha mãos e respiração, com silêncio e timbre acústico em vez de triunfo épico. |
 
 ## Estado de produção
-Roteiros ingleses e identidades produzidos. Narração sintética local, som e animação em geração; o índice de arquivos e as verificações serão preenchidos após a exportação. As prévias não são publicação no YouTube nem acabamento final aprovado.
+Dez prévias narradas produzidas, todas com mais de cinco minutos. Voz inglesa sintética local, música e efeitos originais, duas intervenções gráficas por episódio e animação limitada em 720p/24fps. O índice final relaciona os MP4s, tempos verificados e arquivos de produção. Não há publicação no YouTube nem acabamento final aprovado. A revisão humana de voz/mix e o refinamento da atuação permanecem etapas de produção.
+
+
+Os roteiros somam 9424 palavras em inglês e vinte diagramas conceituais. As durações finais são medidas nos arquivos MP4 e registradas em manifest.json.

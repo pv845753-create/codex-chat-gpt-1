@@ -281,7 +281,8 @@ def render_frame(episode,beat,index,local,progress,width=1280,height=720):
         d.poly([(307,95),(670,108),(650,424),(288,409)],'#d9d2bd','#8c928a',2)
         d.line([(342,110),(323,405)],blend(secondary,'#c96553',.35),2)
         for j in range(10):d.line([(344,150+j*23),(630,163+j*23)],'#b5b9aa',1)
-        d.text((362,124),'FIRST DRAFT',22,'#41535a',True)
+        label={'01':'BE HERE.','02':'PRINT NO. 1','03':'TONIGHT','04':'BUILD DAY','05':'OUR STREET','06':'TRY AGAIN','07':'PLAY AGAIN','08':'ENOUGH FOR TODAY','09':'SAY HELLO','10':'ONE SONG'}.get(str(episode.get('id','')),'NEXT STEP')
+        d.text((362,124),label,18,'#41535a',True)
         for j in range(min(6,int(t/.9)+1)):
             d.line([(356,186+j*25),(402+((j*37+int(t*9))%196),190+j*25)],'#66746b',2)
         xx=441+math.sin(t*2)*75;yy=280+min(3,int(t/1.5))*24
@@ -365,12 +366,33 @@ def render_frame(episode,beat,index,local,progress,width=1280,height=720):
     elif scene=='workbench':
         d.rr((236,307,784,327),4,'#71634d','#b39c74',2)
         for x in (259,757):d.line([(x,329),(x,417)],'#756a57',9)
-        d.rr((512,218,612,307),5,'#a48b62','#c3b18a',2)
-        d.poly([(504,222),(563,174),(622,222)],'#526d6b','#a7b2a0',2)
-        d.ellipse((549,243,576,269),'#33474d','#c1aa7a',2)
+        eid=str(episode.get('id',''))
+        if eid=='02':
+            # Original printmaking workspace, not the birdhouse from the gaming story.
+            d.poly([(495,218),(657,225),(645,302),(487,295)],'#ddd1b7','#9c8b72',2)
+            d.ellipse((541,238,598,278),None,accent,2)
+            for k in range(5):d.line([(516+k*21,241),(528+k*18,279)],'#67736a',1)
+            d.line([(605,276),(672,286)],'#a2aea7',7)
+            d.rr((595,262,624,285),5,'#6e5451','#b5957e',2)
+        elif eid=='06':
+            # Slatted wooden bench under construction.
+            for k in range(3):d.rr((494,238+k*13,661,248+k*13),2,'#a38b64','#c2a87c',1)
+            for x in (514,634):d.line([(x,278),(x-5,307)],'#9e8965',9)
+            d.line([(518,291),(635,291)],'#7e735c',5)
+        elif eid=='08':
+            # Repairable lamp, with visible cord and disassembled shade.
+            d.ellipse((530,292,617,307),'#8d7f66','#bba37b',2)
+            d.line([(572,296),(572,226)],'#9c8b6d',6)
+            d.poly([(544,208),(603,208),(624,249),(523,249)],blend(secondary,'#c8b081',.4),'#bda57d',2)
+            d.line([(612,300),(643,290),(660,302),(689,295)],'#6f7e81',2)
+            d.rr((681,288,700,302),3,'#8c9490')
+        else:
+            d.rr((512,218,612,307),5,'#a48b62','#c3b18a',2)
+            d.poly([(504,222),(563,174),(622,222)],'#526d6b','#a7b2a0',2)
+            d.ellipse((549,243,576,269),'#33474d','#c1aa7a',2)
         for j in range(4):d.line([(249+j*16,117),(249+j*16,192)],'#74857f',5)
         d.line([(686,293),(729,257)],'#b0b4a5',6);d.rect((717,245,740,268),'#6b7b7b')
-        character(d,371,322,t,'reach',accent,mood=mood)
+        character(d,447,322,t,'reach',accent,mood=mood)
         plant(d,836,417,.8)
     elif scene=='water':
         d.ellipse((294,408,671,435),'#212b32')

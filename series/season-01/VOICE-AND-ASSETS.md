@@ -3,7 +3,8 @@
 ## English narration
 Synthetic U.S. English voice generated locally with Piper. No voice cloning requested, no voice from a reference YouTube channel, no paid remote service.
 
-- Runtime source: https://github.com/rhasspy/piper/releases/tag/v0.0.2
+- Legacy runtime (episodes 01–02): https://github.com/rhasspy/piper/releases/tag/v0.0.2
+- Python runtime (episodes 03–10): piper-tts 1.8.0, ONNX Runtime 1.31.1, installed from PyPI. The adapter uses the same model/speaker, with explicit CPU thread limits. Runtime licenses remain separate from the video assets.
 - Model asset: https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-en-us-libritts-high.tar.gz
 - Model: LibriTTS high; speaker ID 0; 22,050 Hz.
 - Model card distributed with the official archive: trained from scratch on LibriTTS train-clean-360; dataset license CC BY 4.0.
