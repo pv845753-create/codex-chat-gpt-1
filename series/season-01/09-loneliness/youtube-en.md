@@ -2,17 +2,26 @@
 The Empty Seat | An Animated Short Film
 
 # Description
-The Empty Seat | An Animated Short Film
+He kept hoping someone would sit beside him. Reaching out felt harder than waiting.
 
-An original Hardstart Films story.
+The Empty Seat is an original animated short film about everyday loneliness, small acts of courage, and the slow work of building a connection. A familiar bus stop becomes a picture of everything left unsaid. Through an ordinary community workshop, the story explores how belonging can begin with initiative, patience, and showing up for other people too.
 
-Every evening, Evan sat at the same bus stop. He left enough room for someone beside him, then placed his bag in the empty space.
+What is one small way you could reach out today?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #HumanConnection #HardstartFilms
+
+# Tags
+The Empty Seat, loneliness, making friends, human connection, belonging, community, reaching out, everyday courage, social connection, friendship story, personal growth animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-EMPTY SEAT
+See ../publishing/09-loneliness/thumbnail.png

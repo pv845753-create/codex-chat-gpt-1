@@ -1,0 +1,31 @@
+{
+  "id": "06",
+  "title": "Nobody Needs to Know | An Animated Short Film",
+  "description": "Talking about the project was easier than fixing the bench.\n\nNobody Needs to Know is an original animated short film about consistency, learning a craft, and the difference between announcing progress and making it. An apprentice wants to build something useful for his mother. In the workshop, patient practice and honest feedback slowly become more valuable than the reaction he hoped to get from showing the plan.\n\nWhat are you building before you talk about it?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #Consistency #HardstartFilms",
+  "tags": [
+    "Nobody Needs to Know",
+    "consistency",
+    "work in silence",
+    "external validation",
+    "learning a skill",
+    "deliberate practice",
+    "honest feedback",
+    "woodworking story",
+    "keeping promises",
+    "personal growth",
+    "discipline animation",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "Nobody Needs to Know, consistency, work in silence, external validation, learning a skill, deliberate practice, honest feedback, woodworking story, keeping promises, personal growth, discipline animation, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "NO APPLAUSE.",
+  "thumbnail_file": "06-quiet-work/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1987774,
+  "thumbnail_sha256": "94b67164558c1576d3ebade82a4c347a1c6603d580f3ae9b3ed458e97bcd8c9a",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/06-quiet-work/06-quiet-work-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

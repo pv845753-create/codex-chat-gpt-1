@@ -2,17 +2,26 @@
 Someone Else’s Life | An Animated Short Film
 
 # Description
-Someone Else’s Life | An Animated Short Film
+He wanted to make something meaningful. Then he started measuring it against everyone else.
 
-An original Hardstart Films story.
+Someone Else's Life is an original animated short film about social comparison, creative confidence, and remembering why you started. A photographer sets out to make a book of neighborhood pictures for his grandmother. As other people's polished work becomes the standard, the personal reason behind his own project begins to disappear.
 
-The first photograph was not impressive. A wet bus stop. A crooked blue sign. His grandmother recognized it immediately. That is where we used to wait, she said.
+What would you make if someone else's work could not set the standard?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #SocialComparison #HardstartFilms
+
+# Tags
+Someone Else's Life, social comparison, comparison trap, creative confidence, self worth, photography story, personal projects, finding your own path, creative purpose, personal growth, self improvement animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-WRONG FRAME
+See ../publishing/05-comparison/thumbnail.png

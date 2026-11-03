@@ -1,0 +1,31 @@
+{
+  "id": "02",
+  "title": "The Draft You Never Finish | An Animated Short Film",
+  "description": "June can always imagine a better version of the print. Calling one finished is the part she cannot face.\n\nThe Draft You Never Finish is an original animated short film about perfectionism, creative doubt, and the fear of letting other people see your work. In a small printmaking studio, each revision promises relief while the unfinished pages keep piling up. The story follows the difficult choice between protecting an imagined perfect result and allowing a real piece of work to leave the desk.\n\nWhat have you been afraid to call finished?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #Perfectionism #HardstartFilms",
+  "tags": [
+    "The Draft You Never Finish",
+    "perfectionism",
+    "creative perfectionism",
+    "fear of finishing",
+    "creative doubt",
+    "unfinished projects",
+    "finishing creative work",
+    "artist story",
+    "printmaking",
+    "creative confidence",
+    "personal growth animation",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "The Draft You Never Finish, perfectionism, creative perfectionism, fear of finishing, creative doubt, unfinished projects, finishing creative work, artist story, printmaking, creative confidence, personal growth animation, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "NEVER FINISHED.",
+  "thumbnail_file": "02-perfectionism/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1967943,
+  "thumbnail_sha256": "0815021830ddc1df6f52d628f1905fa9e26c2401297971407c63ddfb6cd3849b",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/02-perfectionism/02-perfectionism-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01",
+  "title": "Your Attention Is Being Sold | An Animated Short Film",
+  "description": "Eli missed his train stop with his phone in his hand. Noticing what else he was missing took longer.\n\nYour Attention Is Being Sold is an original animated short film about phone distraction, endless scrolling, and being present for the people in front of us. A planned evening with a friend becomes a quiet test of how much attention a screen can take — and how deliberately we have to choose where it goes.\n\nWhich part of your day would you like to take back?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #DigitalDistraction #HardstartFilms",
+  "tags": [
+    "Your Attention Is Being Sold",
+    "phone distraction",
+    "digital distraction",
+    "endless scrolling",
+    "phone habits",
+    "screen time",
+    "attention economy",
+    "being present",
+    "digital wellbeing",
+    "self improvement animation",
+    "personal growth",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "Your Attention Is Being Sold, phone distraction, digital distraction, endless scrolling, phone habits, screen time, attention economy, being present, digital wellbeing, self improvement animation, personal growth, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "STILL SCROLLING?",
+  "thumbnail_file": "01-attention/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1740428,
+  "thumbnail_sha256": "22be2c7229edd4d67386cefdb80e3702a02f471f1c13bd23f15e53949bacb229",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/01-attention/01-attention-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

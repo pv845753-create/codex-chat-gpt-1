@@ -2,17 +2,26 @@
 The Draft You Never Finish | An Animated Short Film
 
 # Description
-The Draft You Never Finish | An Animated Short Film
+June can always imagine a better version of the print. Calling one finished is the part she cannot face.
 
-An original Hardstart Films story.
+The Draft You Never Finish is an original animated short film about perfectionism, creative doubt, and the fear of letting other people see your work. In a small printmaking studio, each revision promises relief while the unfinished pages keep piling up. The story follows the difficult choice between protecting an imagined perfect result and allowing a real piece of work to leave the desk.
 
-The poster was finished on Tuesday. By Wednesday, June had decided the moon was too large. By Thursday, she had decided the entire sky was wrong.
+What have you been afraid to call finished?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #Perfectionism #HardstartFilms
+
+# Tags
+The Draft You Never Finish, perfectionism, creative perfectionism, fear of finishing, creative doubt, unfinished projects, finishing creative work, artist story, printmaking, creative confidence, personal growth animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-FINISH IT.
+See ../publishing/02-perfectionism/thumbnail.png

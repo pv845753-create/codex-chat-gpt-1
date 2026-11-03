@@ -1,0 +1,31 @@
+{
+  "id": "04",
+  "title": "One More Game | An Animated Short Film",
+  "description": "One more match. One more evening. A promise to his brother keeps waiting.\n\nOne More Game is an original animated short film about gaming, escapism, and making room for the promises that matter outside the screen. A shared plan to build a birdhouse slowly disappears behind another round. The story explores what happens when enjoyable downtime starts taking the place of the life someone wanted to show up for.\n\nWhat real-world promise do you want to make room for?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #GamingHabits #HardstartFilms",
+  "tags": [
+    "One More Game",
+    "gaming habits",
+    "gaming and life balance",
+    "one more match",
+    "escapism",
+    "screen time",
+    "keeping promises",
+    "family connection",
+    "gaming story",
+    "changing habits",
+    "personal growth animation",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "One More Game, gaming habits, gaming and life balance, one more match, escapism, screen time, keeping promises, family connection, gaming story, changing habits, personal growth animation, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "ONE MORE.",
+  "thumbnail_file": "04-one-more-game/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1807707,
+  "thumbnail_sha256": "db9c053e065df4e8201d24643be4285bfc1f30cdae800c3c232e1764f9fcd17b",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/04-one-more-game/04-one-more-game-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

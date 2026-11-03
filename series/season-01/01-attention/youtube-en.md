@@ -2,17 +2,26 @@
 Your Attention Is Being Sold | An Animated Short Film
 
 # Description
-Your Attention Is Being Sold | An Animated Short Film
+Eli missed his train stop with his phone in his hand. Noticing what else he was missing took longer.
 
-An original Hardstart Films story.
+Your Attention Is Being Sold is an original animated short film about phone distraction, endless scrolling, and being present for the people in front of us. A planned evening with a friend becomes a quiet test of how much attention a screen can take — and how deliberately we have to choose where it goes.
 
-Eli looked up from his phone just as the train doors closed. His station slid past the window. He had been holding the ticket for twenty minutes.
+Which part of your day would you like to take back?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #DigitalDistraction #HardstartFilms
+
+# Tags
+Your Attention Is Being Sold, phone distraction, digital distraction, endless scrolling, phone habits, screen time, attention economy, being present, digital wellbeing, self improvement animation, personal growth, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-STILL SCROLLING?
+See ../publishing/01-attention/thumbnail.png

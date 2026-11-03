@@ -1,5 +1,7 @@
 # Hardstart Films — 10 prévias narradas
 
+**Capas e metadados:** [thumbnails, títulos, descrições e tags](publishing/README.md) · [pacote ZIP](HARDSTART-10-THUMBS-E-METADADOS.zip)
+
 **Os 10 MP4s estão disponíveis abaixo.** Cada vídeo tem mais de cinco minutos, narração sintética em inglês, música e efeitos originais, dois diagramas conceituais e direção visual própria. Clique no título para abrir ou baixar o MP4 completo.
 
 São **prévias com animação limitada**, em 720p/24fps, com 12 desenhos por segundo. Ainda precisam de revisão humana integral de voz/mix, ajuste fino das legendas e refinamento de atuação antes de publicação. Não foram publicados no YouTube.

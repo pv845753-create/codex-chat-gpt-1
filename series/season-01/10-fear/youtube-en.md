@@ -2,17 +2,26 @@
 The Door You Keep Avoiding | An Animated Short Film
 
 # Description
-The Door You Keep Avoiding | An Animated Short Film
+The hardest part of the performance happened before he reached the stage.
 
-An original Hardstart Films story.
+The Door You Keep Avoiding is an original animated short film about fear of judgment, stage fright, and letting people see something you have made. Outside a small performance space, a first-time performer has plenty of reasons to turn around. One open doorway holds the possibility of a mistake, an audience, and an experience he cannot get by remaining in the corridor.
 
-For months, Lena played the same four bars beautifully. They began a song nobody had heard, because she always stopped before the uncertain part.
+What door have you been standing outside?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #CreativeCourage #HardstartFilms
+
+# Tags
+The Door You Keep Avoiding, fear of judgment, stage fright, first performance, creative courage, self doubt, sharing your work, taking the first step, fear of failure, personal growth animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-THAT DOOR
+See ../publishing/10-fear/thumbnail.png

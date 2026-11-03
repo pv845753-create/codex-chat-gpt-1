@@ -2,17 +2,26 @@
 The Promise After Midnight | An Animated Short Film
 
 # Description
-The Promise After Midnight | An Animated Short Film
+Every night, the promise sounds convincing. Every night, the screen stays on.
 
-An original Hardstart Films story.
+The Promise After Midnight is an original animated short film about late-night scrolling, instant relief, and the loneliness that can hide inside an ordinary routine. A familiar habit keeps offering a way to switch off uncomfortable feelings. A small return to drawing and human connection opens another possibility, one evening at a time.
 
-At eleven forty, the apartment finally became quiet. After a day answering people, nobody needed him. He did not know what to do with the silence.
+What would a kinder evening routine look like for you?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #ChangingHabits #HardstartFilms
+
+# Tags
+The Promise After Midnight, late night scrolling, instant gratification, instant relief, nighttime habits, phone habits, loneliness, changing habits, emotional escape, human connection, personal growth, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-AFTER MIDNIGHT
+See ../publishing/03-instant-relief/thumbnail.png

@@ -2,17 +2,26 @@
 One More Game | An Animated Short Film
 
 # Description
-One More Game | An Animated Short Film
+One more match. One more evening. A promise to his brother keeps waiting.
 
-An original Hardstart Films story.
+One More Game is an original animated short film about gaming, escapism, and making room for the promises that matter outside the screen. A shared plan to build a birdhouse slowly disappears behind another round. The story explores what happens when enjoyable downtime starts taking the place of the life someone wanted to show up for.
 
-The match ended at midnight. A teammate laughed through the headset. The small room felt full. Then somebody said, one more?
+What real-world promise do you want to make room for?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #GamingHabits #HardstartFilms
+
+# Tags
+One More Game, gaming habits, gaming and life balance, one more match, escapism, screen time, keeping promises, family connection, gaming story, changing habits, personal growth animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-ONE MORE?
+See ../publishing/04-one-more-game/thumbnail.png

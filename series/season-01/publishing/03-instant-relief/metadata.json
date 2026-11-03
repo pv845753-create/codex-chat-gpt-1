@@ -1,0 +1,31 @@
+{
+  "id": "03",
+  "title": "The Promise After Midnight | An Animated Short Film",
+  "description": "Every night, the promise sounds convincing. Every night, the screen stays on.\n\nThe Promise After Midnight is an original animated short film about late-night scrolling, instant relief, and the loneliness that can hide inside an ordinary routine. A familiar habit keeps offering a way to switch off uncomfortable feelings. A small return to drawing and human connection opens another possibility, one evening at a time.\n\nWhat would a kinder evening routine look like for you?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #ChangingHabits #HardstartFilms",
+  "tags": [
+    "The Promise After Midnight",
+    "late night scrolling",
+    "instant gratification",
+    "instant relief",
+    "nighttime habits",
+    "phone habits",
+    "loneliness",
+    "changing habits",
+    "emotional escape",
+    "human connection",
+    "personal growth",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "The Promise After Midnight, late night scrolling, instant gratification, instant relief, nighttime habits, phone habits, loneliness, changing habits, emotional escape, human connection, personal growth, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "AGAIN TONIGHT?",
+  "thumbnail_file": "03-instant-relief/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1738944,
+  "thumbnail_sha256": "5cadb7e2f6536f2eb15b102c429ed785e7b8555b69ae1d528b9f8912a6abb761",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/03-instant-relief/03-instant-relief-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

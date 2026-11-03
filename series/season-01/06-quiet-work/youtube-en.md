@@ -2,17 +2,26 @@
 Nobody Needs to Know | An Animated Short Film
 
 # Description
-Nobody Needs to Know | An Animated Short Film
+Talking about the project was easier than fixing the bench.
 
-An original Hardstart Films story.
+Nobody Needs to Know is an original animated short film about consistency, learning a craft, and the difference between announcing progress and making it. An apprentice wants to build something useful for his mother. In the workshop, patient practice and honest feedback slowly become more valuable than the reaction he hoped to get from showing the plan.
 
-He announced the chair before cutting any wood. He posted a sketch, a photograph of his tools, and a sentence about finally becoming a maker.
+What are you building before you talk about it?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #Consistency #HardstartFilms
+
+# Tags
+Nobody Needs to Know, consistency, work in silence, external validation, learning a skill, deliberate practice, honest feedback, woodworking story, keeping promises, personal growth, discipline animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-BUILD FIRST
+See ../publishing/06-quiet-work/thumbnail.png

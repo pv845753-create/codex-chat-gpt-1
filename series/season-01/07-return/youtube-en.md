@@ -2,17 +2,26 @@
 The Day After You Quit | An Animated Short Film
 
 # Description
-The Day After You Quit | An Animated Short Film
+The piano had become a shelf. One difficult night had become the reason to stay away.
 
-An original Hardstart Films story.
+The Day After You Quit is an original animated short film about returning after failure, rebuilding trust in yourself, and practicing without demanding a perfect comeback. A pianist still remembers the moment a performance went wrong. Rain, a closed piano lid, and an unfinished piece become the setting for a smaller, more honest return.
 
-The piano had become a shelf. A mug stood on its closed lid. Beside it lay an old concert program.
+What would returning look like for you?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #StartingOver #HardstartFilms
+
+# Tags
+The Day After You Quit, starting over, returning after failure, fear of failure, piano story, music practice, resilience, trying again, imperfect progress, rebuilding confidence, personal growth animation, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-PLAY AGAIN.
+See ../publishing/07-return/thumbnail.png

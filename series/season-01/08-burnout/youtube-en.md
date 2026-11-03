@@ -2,17 +2,26 @@
 You Can’t Outwork Empty | An Animated Short Film
 
 # Description
-You Can’t Outwork Empty | An Animated Short Film
+He kept repairing lamps while ignoring his own exhaustion.
 
-An original Hardstart Films story.
+You Can't Outwork Empty is an original animated short film about burnout, the guilt of resting, and learning to recognize a limit. In a repair workshop, another task always seems more urgent than stopping. The story follows an exhausted worker as he begins to change the load he is carrying and accept support instead of treating every warning as a reason to push harder.
 
-He repaired lamps in a workshop. The bench stayed bright long after closing. He felt dimmer every morning.
+What would a realistic limit look like this week?
 
-Hardstart Films — animated stories about discipline, fear, and becoming better.
+Subscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.
+https://www.youtube.com/@hardstartfilms
 
-Voice: locally synthesized with Piper / LibriTTS high. Dataset: LibriTTS, Heiga Zen et al. (2019), CC BY 4.0, http://www.openslr.org/60/. Original procedural music, sound design, and 2D illustrations.
+Credits
+Original story, illustrations, music and sound design: Hardstart Films.
+Synthetic narration: Piper / LibriTTS high.
+LibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.
+https://www.openslr.org/60/
+https://creativecommons.org/licenses/by/4.0/
 
-Production status: narrated animated draft, not final release.
+#AnimatedShortFilm #Burnout #HardstartFilms
+
+# Tags
+You Can't Outwork Empty, burnout story, exhaustion, rest guilt, work life balance, setting boundaries, asking for help, sustainable work, overwork, self care, personal growth, animated short film, animated story, Hardstart Films
 
 # Thumbnail
-RUNNING EMPTY.
+See ../publishing/08-burnout/thumbnail.png

@@ -1,0 +1,31 @@
+{
+  "id": "08",
+  "title": "You Can’t Outwork Empty | An Animated Short Film",
+  "description": "He kept repairing lamps while ignoring his own exhaustion.\n\nYou Can't Outwork Empty is an original animated short film about burnout, the guilt of resting, and learning to recognize a limit. In a repair workshop, another task always seems more urgent than stopping. The story follows an exhausted worker as he begins to change the load he is carrying and accept support instead of treating every warning as a reason to push harder.\n\nWhat would a realistic limit look like this week?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #Burnout #HardstartFilms",
+  "tags": [
+    "You Can't Outwork Empty",
+    "burnout story",
+    "exhaustion",
+    "rest guilt",
+    "work life balance",
+    "setting boundaries",
+    "asking for help",
+    "sustainable work",
+    "overwork",
+    "self care",
+    "personal growth",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "You Can't Outwork Empty, burnout story, exhaustion, rest guilt, work life balance, setting boundaries, asking for help, sustainable work, overwork, self care, personal growth, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "RUNNING EMPTY.",
+  "thumbnail_file": "08-burnout/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1712177,
+  "thumbnail_sha256": "bb2d15b91ffd9fb2f13045bfeaf6ce61c0598563f56fdbd5c0150153be9710b1",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/08-burnout/08-burnout-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

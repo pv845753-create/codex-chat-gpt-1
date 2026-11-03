@@ -1,0 +1,31 @@
+{
+  "id": "05",
+  "title": "Someone Else’s Life | An Animated Short Film",
+  "description": "He wanted to make something meaningful. Then he started measuring it against everyone else.\n\nSomeone Else's Life is an original animated short film about social comparison, creative confidence, and remembering why you started. A photographer sets out to make a book of neighborhood pictures for his grandmother. As other people's polished work becomes the standard, the personal reason behind his own project begins to disappear.\n\nWhat would you make if someone else's work could not set the standard?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #SocialComparison #HardstartFilms",
+  "tags": [
+    "Someone Else's Life",
+    "social comparison",
+    "comparison trap",
+    "creative confidence",
+    "self worth",
+    "photography story",
+    "personal projects",
+    "finding your own path",
+    "creative purpose",
+    "personal growth",
+    "self improvement animation",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "Someone Else's Life, social comparison, comparison trap, creative confidence, self worth, photography story, personal projects, finding your own path, creative purpose, personal growth, self improvement animation, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "THEIR LIFE.",
+  "thumbnail_file": "05-comparison/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1871604,
+  "thumbnail_sha256": "ed35c268dfca38bc9043a3c457ada2fb447054ee0ae5ad2e794e54fcac9b46f2",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/05-comparison/05-comparison-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}

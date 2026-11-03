@@ -1,0 +1,31 @@
+{
+  "id": "07",
+  "title": "The Day After You Quit | An Animated Short Film",
+  "description": "The piano had become a shelf. One difficult night had become the reason to stay away.\n\nThe Day After You Quit is an original animated short film about returning after failure, rebuilding trust in yourself, and practicing without demanding a perfect comeback. A pianist still remembers the moment a performance went wrong. Rain, a closed piano lid, and an unfinished piece become the setting for a smaller, more honest return.\n\nWhat would returning look like for you?\n\nSubscribe to Hardstart Films for original animated stories about discipline, fear, habits, and becoming better.\nhttps://www.youtube.com/@hardstartfilms\n\nCredits\nOriginal story, illustrations, music and sound design: Hardstart Films.\nSynthetic narration: Piper / LibriTTS high.\nLibriTTS dataset: Heiga Zen et al. (2019), CC BY 4.0.\nhttps://www.openslr.org/60/\nhttps://creativecommons.org/licenses/by/4.0/\n\n#AnimatedShortFilm #StartingOver #HardstartFilms",
+  "tags": [
+    "The Day After You Quit",
+    "starting over",
+    "returning after failure",
+    "fear of failure",
+    "piano story",
+    "music practice",
+    "resilience",
+    "trying again",
+    "imperfect progress",
+    "rebuilding confidence",
+    "personal growth animation",
+    "animated short film",
+    "animated story",
+    "Hardstart Films"
+  ],
+  "tags_csv": "The Day After You Quit, starting over, returning after failure, fear of failure, piano story, music practice, resilience, trying again, imperfect progress, rebuilding confidence, personal growth animation, animated short film, animated story, Hardstart Films",
+  "thumbnail_headline": "PLAY AGAIN.",
+  "thumbnail_file": "07-return/thumbnail.png",
+  "thumbnail_width": 1672,
+  "thumbnail_height": 941,
+  "thumbnail_bytes": 1780623,
+  "thumbnail_sha256": "471b0bb6160d9a82f041b55e50c92a73ae2137f3ef7897eb6c43fb3fd33fc818",
+  "video_url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/07-return/07-return-draft-en.mp4",
+  "language": "en",
+  "status": "Prepared for review and manual upload; not published to YouTube."
+}
