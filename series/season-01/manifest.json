@@ -9,10 +9,11 @@
     "words": 925,
     "diagrams": 2,
     "file": "01-attention/01-attention-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/01-attention/01-attention-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/01-attention/01-attention-draft-en.mp4",
     "sha256": "0b7400c9a928432a2272e5841fcd82c9d6f02e3d35a2271e84ec3fee049fc602",
     "size_bytes": 12516101,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "02",
@@ -24,10 +25,11 @@
     "words": 925,
     "diagrams": 2,
     "file": "02-perfectionism/02-perfectionism-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/02-perfectionism/02-perfectionism-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/02-perfectionism/02-perfectionism-draft-en.mp4",
     "sha256": "bf788d2605f613697687cdd8a66d9e14fbd2d4901663fd87e952f4e04e79add1",
     "size_bytes": 12302617,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "03",
@@ -39,10 +41,11 @@
     "words": 946,
     "diagrams": 2,
     "file": "03-instant-relief/03-instant-relief-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/03-instant-relief/03-instant-relief-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/03-instant-relief/03-instant-relief-draft-en.mp4",
     "sha256": "713eaaa97c32f915f61974e2973bceb95b00edbabf313d635d56b0838d383333",
     "size_bytes": 12134075,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "04",
@@ -54,10 +57,11 @@
     "words": 938,
     "diagrams": 2,
     "file": "04-one-more-game/04-one-more-game-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/04-one-more-game/04-one-more-game-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/04-one-more-game/04-one-more-game-draft-en.mp4",
     "sha256": "4698b209a7bc7c898a9655abc4c9f5a2322bf42e134c3a453c62c3a355f95e91",
     "size_bytes": 11717123,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "05",
@@ -69,10 +73,11 @@
     "words": 948,
     "diagrams": 2,
     "file": "05-comparison/05-comparison-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/05-comparison/05-comparison-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/05-comparison/05-comparison-draft-en.mp4",
     "sha256": "1ab1a4edef2652225c48fa2a5e7735ba400f3e64f7adb3f17339652327c9bc8f",
     "size_bytes": 12055935,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "06",
@@ -84,10 +89,11 @@
     "words": 948,
     "diagrams": 2,
     "file": "06-quiet-work/06-quiet-work-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/06-quiet-work/06-quiet-work-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/06-quiet-work/06-quiet-work-draft-en.mp4",
     "sha256": "9e1b63f12c99460cf93e94bc1dd49def3b0af9e02a5aa124f4b645b5327a77e5",
     "size_bytes": 11508322,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "07",
@@ -99,10 +105,11 @@
     "words": 949,
     "diagrams": 2,
     "file": "07-return/07-return-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/07-return/07-return-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/07-return/07-return-draft-en.mp4",
     "sha256": "245783616b48297eaa6cae7fcb513c339cf69339d7b95d0421bc0df9e0c75fdf",
     "size_bytes": 12253746,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "08",
@@ -114,10 +121,11 @@
     "words": 949,
     "diagrams": 2,
     "file": "08-burnout/08-burnout-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/08-burnout/08-burnout-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/08-burnout/08-burnout-draft-en.mp4",
     "sha256": "5672c12a2308f382ff16957b2035125d69bde1f6ae511318a826a281d0bec183",
     "size_bytes": 12513952,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "09",
@@ -129,10 +137,11 @@
     "words": 949,
     "diagrams": 2,
     "file": "09-loneliness/09-loneliness-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/09-loneliness/09-loneliness-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/09-loneliness/09-loneliness-draft-en.mp4",
     "sha256": "5152eceea32a2418ae196982775637daaf143d0bf0f5cc337bfa609318aaab74",
     "size_bytes": 12542961,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   },
   {
     "id": "10",
@@ -144,9 +153,10 @@
     "words": 947,
     "diagrams": 2,
     "file": "10-fear/10-fear-draft-en.mp4",
-    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/refs/heads/codex/hardstart-season-01/series/season-01/10-fear/10-fear-draft-en.mp4",
+    "url": "https://raw.githubusercontent.com/pv845753-create/codex-chat-gpt-1/c3220aaa3fea36878e060a5ed2f324a7330828d2/series/season-01/10-fear/10-fear-draft-en.mp4",
     "sha256": "fe3ded39bd8e5a5ff3e8921bb3e60ed9d5c2b0e930e589675a355a4aec951d44",
     "size_bytes": 12923618,
-    "status": "Narrated limited-animation draft; not a final YouTube release."
+    "status": "Narrated limited-animation draft; not a final YouTube release.",
+    "delivery_commit": "c3220aaa3fea36878e060a5ed2f324a7330828d2"
   }
 ]
